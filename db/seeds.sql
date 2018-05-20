@@ -1,3 +1,3 @@
-INSERT INTO burgers (burger_name) VALUES ('Bacanator');
-INSERT INTO burgers (burger_name) VALUES ('Big Mac');
-INSERT INTO cats (burger_name) VALUES ('Double Double');
+INSERT INTO burgers (burger_name, devoured) VALUES ('Bacanator', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Big Mac', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Double Double', false);
